@@ -15,6 +15,9 @@ namespace SecurityPipeline
                 "api/{controller}"
             );
 
+            // we could assign auth filter globally this way, or add a [TestAuthenticationFilter] attribute to specific controllers and action methods
+            //config.Filters.Add(new TestAuthenticationFilterAttribute());
+
             app.Use(typeof(TestMiddleware)); // this one is ours :)
 
             app.UseWebApi(config);
