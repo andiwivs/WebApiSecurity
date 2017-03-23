@@ -28,9 +28,6 @@ D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\SecurityPipeline.dll.confi
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\SecurityPipeline.dll
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\SecurityPipeline.pdb
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Repos\personal\WebApiSecurity\SecurityPipeline\obj\Debug\SecurityPipeline.dll
-D:\Repos\personal\WebApiSecurity\SecurityPipeline\obj\Debug\SecurityPipeline.pdb
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\Microsoft.Owin.dll
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\Microsoft.Owin.Host.SystemWeb.dll
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\Newtonsoft.Json.dll
@@ -38,10 +35,12 @@ D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\Owin.dll
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\System.Net.Http.Formatting.dll
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\System.Web.Http.dll
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\System.Web.Http.Owin.dll
+D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\Microsoft.Owin.xml
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\Microsoft.Owin.Host.SystemWeb.xml
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\Newtonsoft.Json.xml
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\System.Net.Http.Formatting.xml
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\System.Web.Http.xml
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\System.Web.Http.Owin.xml
-D:\Repos\personal\WebApiSecurity\SecurityPipeline\obj\Debug\SecurityPipeline.csprojResolveAssemblyReference.cache
+D:\Repos\personal\WebApiSecurity\SecurityPipeline\obj\Debug\SecurityPipeline.dll
+D:\Repos\personal\WebApiSecurity\SecurityPipeline\obj\Debug\SecurityPipeline.pdb
