@@ -1,4 +1,5 @@
 ﻿using Owin;
+using SecurityPipeline.Pipeline;
 using System.Web.Http;
 
 namespace SecurityPipeline
@@ -13,6 +14,8 @@ namespace SecurityPipeline
                 "default",
                 "api/{controller}"
             );
+
+            app.Use(typeof(TestMiddleware)); // this one is ours :)
 
             app.UseWebApi(config);
         }
