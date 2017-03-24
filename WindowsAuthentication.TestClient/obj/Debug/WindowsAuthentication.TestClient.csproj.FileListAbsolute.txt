@@ -1,0 +1,9 @@
+D:\Repos\personal\WebApiSecurity\WindowsAuthentication.TestClient\bin\Debug\WindowsAuthentication.TestClient.exe.config
+D:\Repos\personal\WebApiSecurity\WindowsAuthentication.TestClient\bin\Debug\WindowsAuthentication.TestClient.exe
+D:\Repos\personal\WebApiSecurity\WindowsAuthentication.TestClient\bin\Debug\WindowsAuthentication.TestClient.pdb
+D:\Repos\personal\WebApiSecurity\WindowsAuthentication.TestClient\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\personal\WebApiSecurity\WindowsAuthentication.TestClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Repos\personal\WebApiSecurity\WindowsAuthentication.TestClient\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\personal\WebApiSecurity\WindowsAuthentication.TestClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Repos\personal\WebApiSecurity\WindowsAuthentication.TestClient\obj\Debug\WindowsAuthentication.TestClient.exe
+D:\Repos\personal\WebApiSecurity\WindowsAuthentication.TestClient\obj\Debug\WindowsAuthentication.TestClient.pdb
