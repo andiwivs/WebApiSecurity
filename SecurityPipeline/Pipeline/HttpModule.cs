@@ -6,6 +6,11 @@ namespace SecurityPipeline
     public class HttpModule : IHttpModule
     {
 
+        /*******************************************************************************************
+         * Note: This will only work when hosting in IIS using traditional system.web reference.
+         *       Consider this method deprecated as OWIN / Helios / Core streamline the web pipeline.
+         *******************************************************************************************/
+        
         public void Init(HttpApplication context)
         {
             context.BeginRequest += Context_BeginRequest;

@@ -44,3 +44,4 @@ D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\System.Web.Http.xml
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\bin\System.Web.Http.Owin.xml
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\obj\Debug\SecurityPipeline.dll
 D:\Repos\personal\WebApiSecurity\SecurityPipeline\obj\Debug\SecurityPipeline.pdb
+D:\Repos\personal\WebApiSecurity\SecurityPipeline\obj\Debug\SecurityPipeline.csprojResolveAssemblyReference.cache
