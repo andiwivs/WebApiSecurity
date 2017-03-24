@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAuthentication", "Wi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAuthentication.TestClient", "WindowsAuthentication.TestClient\WindowsAuthentication.TestClient.csproj", "{681BA335-A144-48FE-A65F-8F22DBE36CCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatanaAuthentication", "KatanaAuthentication\KatanaAuthentication.csproj", "{9B3B65DA-B243-4C45-88A4-83F542D77B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatanaAuthentication.TestClient", "KatanaAuthentication.TestClient\KatanaAuthentication.TestClient.csproj", "{1223401C-7B4E-4E72-ABEF-462949061C9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{681BA335-A144-48FE-A65F-8F22DBE36CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{681BA335-A144-48FE-A65F-8F22DBE36CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{681BA335-A144-48FE-A65F-8F22DBE36CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3B65DA-B243-4C45-88A4-83F542D77B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3B65DA-B243-4C45-88A4-83F542D77B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3B65DA-B243-4C45-88A4-83F542D77B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3B65DA-B243-4C45-88A4-83F542D77B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1223401C-7B4E-4E72-ABEF-462949061C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1223401C-7B4E-4E72-ABEF-462949061C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1223401C-7B4E-4E72-ABEF-462949061C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1223401C-7B4E-4E72-ABEF-462949061C9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

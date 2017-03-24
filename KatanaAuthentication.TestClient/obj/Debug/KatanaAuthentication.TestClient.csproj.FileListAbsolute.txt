@@ -1,0 +1,12 @@
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\bin\Debug\KatanaAuthentication.TestClient.exe.config
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\bin\Debug\KatanaAuthentication.TestClient.exe
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\bin\Debug\KatanaAuthentication.TestClient.pdb
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\obj\Debug\KatanaAuthentication.TestClient.exe
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\obj\Debug\KatanaAuthentication.TestClient.pdb
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\bin\Debug\Thinktecture.IdentityModel.Client.Net45.dll
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\bin\Debug\Thinktecture.IdentityModel.Client.Net45.pdb
+D:\Repos\personal\WebApiSecurity\KatanaAuthentication.TestClient\obj\Debug\KatanaAuthentication.TestClient.csprojResolveAssemblyReference.cache
